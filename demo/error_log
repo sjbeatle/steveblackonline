@@ -1,0 +1,4 @@
+[27-Jun-2012 18:08:43] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'admin/config.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/stevebl1/public_html/demo/song_list_tab.php on line 1
+[27-Jun-2012 19:57:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/stevebl1/public_html/demo/song_list_tab.php on line 9
+[27-Jun-2012 19:58:37] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/stevebl1/public_html/demo/song_list_tab.php on line 9
+[27-Jun-2012 19:58:42] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/stevebl1/public_html/demo/song_list_tab.php on line 9

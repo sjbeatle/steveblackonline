@@ -1,0 +1,154 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:#bdd98a;
+	color:#000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 0px;
+	padding: 0px;
+}
+a{color:#28556b;}
+a:hover{color:#c77e0c;}
+.outmost {
+	position: absolute;
+	top: 0px;
+	left: 50%;
+	margin-top: 0px;
+	margin-left: -490px;
+	width: 980px;
+}
+/********************** Header ***************************/
+#header {
+	margin: 0px 0px 0px 0px;
+	background-image:url(../images/header.jpg);
+	width:980px;
+	height:288px;
+	position:relative;
+}
+#header_text {
+	top:120px;
+	left:43px;
+	position:absolute;
+}
+#header_text p{
+	font-size: 18px;
+	color:#FFFFFF;
+}
+/********************** Content ***************************/
+#content {
+	background-image:url(../images/content_bg.gif);
+	width:980px;
+	text-align: center;
+	padding-top: 20px;
+}
+/****************** Admin Content ************************/
+#admin_title {
+	font-size: 12px;
+	color: white;
+	background-color: #CCCCCC;
+	margin: 0px;
+	padding: 4px;
+	border: dashed 1px black;
+	margin-right: 25%;
+	margin-left: 25%;
+}
+.form_error {
+	color: red;
+}
+/********************** Footer ***************************/
+#footerline {
+	background-image:url(../images/footer_bg.gif);
+	font-size:1px;
+	height:24px;
+}
+#footer {
+	width:980px;
+	text-align:center;
+	padding: 20px 0px;
+}
+/**************************
+* BEGIN NAVIGATION STYLES *
+**************************/
+.suckertreemenu{
+  font-size: 12px;
+  font-family: verdana;
+  color: white;
+}
+.suckertreemenu ul{
+	background-color:#94c2ea;
+	border: 3px solid #FFFFFF;
+	display:block;
+	width: 974px;
+	top:257px;
+	position:absolute;
+	margin: 0px 0px 0px 0px;
+	height:20px;
+	padding:5px 0px 0px 0px;
+	text-align:left;
+	filter: alpha(opacity95);
+	-moz-opacity: .95;
+	opacity: .95;
+  list-style-type: none;
+}
+/*Top level list items*/
+.suckertreemenu ul li{
+  position: relative;
+  display: inline;
+  float: left;
+}
+/*Top level menu link items style*/
+.suckertreemenu ul li a{
+  display: block;
+  padding: 0px 15px 9px 15px;
+  border-left-width: 0;
+  text-decoration: none;
+  color: white;
+}
+.suckertreemenu ul li a:hover{
+  text-decoration: underline;
+  color: #28556b;
+}
+/*1st sub level menu*/
+.suckertreemenu ul li ul{
+  filter: alpha(opacity = 92);
+  -moz-opacity: .92;
+  opacity: .92;
+  left: 0px;
+	width:200px;
+  top: 0px;
+	height:inherit;
+  position: absolute;
+  top: 1em; /* no need to change, as true value set by script */
+  display: block;
+  visibility: hidden;
+  border: solid 3px white;
+  z-index: 1001;
+}
+/*Sub level menu list items (undo style from Top level List Items)*/
+.suckertreemenu ul li ul li{
+  display: list-item;
+  float: none;
+}
+/* Sub level menu links style */
+.suckertreemenu ul li ul li a{
+  display: block;
+  width: 195px; /*width of sub menu levels*/
+  color: white;
+  text-decoration: none;
+  background-color: #94c2ea;
+  padding: 5px 0px 5px 5px;
+}
+.suckertreemenu ul li ul li a:hover{
+  color: gray;
+  background-color: white;
+}
+
+/* Holly Hack for IE \*/
+* html .suckertreemenu ul li { float: left; height: 1%;}
+* html .suckertreemenu ul li a { height: 1%;}
+* html .suckertreemenu ul li ul li { float: left;}
+/* End */
+/************************
+* END NAVIGATION STYLES *
+************************/

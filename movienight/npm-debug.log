@@ -1,0 +1,100 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install' ]
+2 info using npm@2.11.3
+3 info using node@v0.12.7
+4 verbose readDependencies loading dependencies from /Applications/MAMP/htdocs/steveblackonline/movienight/package.json
+5 warn package.json movienight@1.0.0 No repository field.
+6 verbose install where, deps [ '/Applications/MAMP/htdocs/steveblackonline/movienight',
+6 verbose install   [ 'lodash',
+6 verbose install     'jquery',
+6 verbose install     'grunt',
+6 verbose install     'grunt-contrib-jshint',
+6 verbose install     'grunt-contrib-sass',
+6 verbose install     'grunt-contrib-watch',
+6 verbose install     'extract-text-webpack-plugin',
+6 verbose install     'grunt-webpack',
+6 verbose install     'webpack',
+6 verbose install     'webpack-dev-server' ] ]
+7 verbose install where, peers [ '/Applications/MAMP/htdocs/steveblackonline/movienight', [] ]
+8 verbose installManyTop reading for lifecycle /Applications/MAMP/htdocs/steveblackonline/movienight/package.json
+9 info preinstall movienight@1.0.0
+10 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/extract-text-webpack-plugin/package.json
+11 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/grunt/package.json
+12 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/grunt-contrib-jshint/package.json
+13 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/grunt-contrib-sass/package.json
+14 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/grunt-contrib-watch/package.json
+15 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/grunt-webpack/package.json
+16 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/jquery/package.json
+17 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/lodash/package.json
+18 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/webpack/package.json
+19 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/webpack-dev-server/package.json
+20 info package.json grunt-contrib-sass@0.9.2 No license field.
+21 info package.json grunt-contrib-watch@0.6.1 No license field.
+22 verbose readDependencies loading dependencies from /Applications/MAMP/htdocs/steveblackonline/movienight/package.json
+23 verbose targetResolver reading package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/extract-text-webpack-plugin/package.json
+24 verbose targetResolver reading package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/grunt/package.json
+25 verbose targetResolver reading package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/grunt-contrib-jshint/package.json
+26 verbose targetResolver reading package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/grunt-contrib-sass/package.json
+27 verbose targetResolver reading package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/grunt-contrib-watch/package.json
+28 verbose targetResolver reading package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/grunt-webpack/package.json
+29 verbose targetResolver reading package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/jquery/package.json
+30 verbose targetResolver reading package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/lodash/package.json
+31 verbose targetResolver reading package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/webpack/package.json
+32 verbose targetResolver reading package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/webpack-dev-server/package.json
+33 verbose targetResolver reading package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/.bin/grunt/package.json
+34 verbose targetResolver reading package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/.bin/webpack/package.json
+35 verbose targetResolver reading package data from /Applications/MAMP/htdocs/steveblackonline/movienight/node_modules/.bin/webpack-dev-server/package.json
+36 verbose already installed skipping grunt-contrib-sass@^0.9.2 /Applications/MAMP/htdocs/steveblackonline/movienight
+37 verbose already installed skipping grunt-contrib-watch@^0.6.1 /Applications/MAMP/htdocs/steveblackonline/movienight
+38 verbose already installed skipping extract-text-webpack-plugin@^0.8.2 /Applications/MAMP/htdocs/steveblackonline/movienight
+39 verbose already installed skipping grunt-webpack@^1.0.11 /Applications/MAMP/htdocs/steveblackonline/movienight
+40 verbose already installed skipping webpack@^1.8.5 /Applications/MAMP/htdocs/steveblackonline/movienight
+41 verbose already installed skipping webpack-dev-server@1.14.0 /Applications/MAMP/htdocs/steveblackonline/movienight
+42 verbose already installed skipping lodash@^4.15.0 /Applications/MAMP/htdocs/steveblackonline/movienight
+43 verbose already installed skipping jquery@^2.2.0 /Applications/MAMP/htdocs/steveblackonline/movienight
+44 verbose already installed skipping grunt@^1.0.1 /Applications/MAMP/htdocs/steveblackonline/movienight
+45 verbose already installed skipping grunt-contrib-jshint@^1.0.0 /Applications/MAMP/htdocs/steveblackonline/movienight
+46 silly install resolved []
+47 info build /Applications/MAMP/htdocs/steveblackonline/movienight
+48 info linkStuff movienight@1.0.0
+49 silly linkStuff movienight@1.0.0 has /Applications/MAMP/htdocs/steveblackonline as its parent node_modules
+50 verbose linkBins movienight@1.0.0
+51 verbose linkMans movienight@1.0.0
+52 verbose rebuildBundles movienight@1.0.0
+53 verbose rebuildBundles [ '.bin',
+53 verbose rebuildBundles   'extract-text-webpack-plugin',
+53 verbose rebuildBundles   'grunt',
+53 verbose rebuildBundles   'grunt-contrib-jshint',
+53 verbose rebuildBundles   'grunt-contrib-sass',
+53 verbose rebuildBundles   'grunt-contrib-watch',
+53 verbose rebuildBundles   'grunt-webpack',
+53 verbose rebuildBundles   'jquery',
+53 verbose rebuildBundles   'lodash',
+53 verbose rebuildBundles   'webpack',
+53 verbose rebuildBundles   'webpack-dev-server' ]
+54 info install movienight@1.0.0
+55 info postinstall movienight@1.0.0
+56 info prepublish movienight@1.0.0
+57 verbose validateInstall loading /Applications/MAMP/htdocs/steveblackonline/movienight/package.json for validation
+58 verbose stack Error: The package grunt does not satisfy its siblings' peerDependencies requirements!
+58 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:125:32
+58 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:267:7
+58 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:138:5
+58 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+58 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+58 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+58 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+58 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+58 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+58 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+59 verbose cwd /Applications/MAMP/htdocs/steveblackonline/movienight
+60 error Darwin 15.5.0
+61 error argv "node" "/usr/local/bin/npm" "install"
+62 error node v0.12.7
+63 error npm  v2.11.3
+64 error code EPEERINVALID
+65 error peerinvalid The package grunt does not satisfy its siblings' peerDependencies requirements!
+65 error peerinvalid Peer grunt-contrib-sass@0.9.2 wants grunt@>=0.4.0
+65 error peerinvalid Peer grunt-contrib-watch@0.6.1 wants grunt@~0.4.0
+65 error peerinvalid Peer grunt-contrib-jshint@1.0.0 wants grunt@>=0.4.0
+66 verbose exit [ 1, true ]

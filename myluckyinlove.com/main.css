@@ -1,0 +1,152 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	padding: 0px;
+	margin: 0px;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: Georgia,Verdana,Arial,Serif;
+}
+#box h2, #box h3 {
+	font-size: 1.5em;
+	margin-bottom: 1em;
+	font-weight: normal;
+	line-height: 1.4em;
+	letter-spacing: 0px;
+	text-align: center;
+}
+body {
+	background-color: #eeeeee;
+	background-attachment: fixed;
+	background-image: url(images/main_bkg.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	font: 76%/1.6em verdana, tahoma, arial,  sans-serif; 
+	color: #333; 
+}
+#header {
+	background-image: url(images/lil_header.png);
+	background-repeat: no-repeat;
+	height: 170px;
+	width: 243px;
+	position: absolute;
+	left: 40px;
+	top: 10px;
+}
+#container {
+	position: absolute;
+	left: 0px;
+	top: 180px;
+	width: 950px;
+}
+#container #innerLeft {
+	float: left;
+	height: 324px;
+	width: 200px;
+	margin-left: 45px;
+	padding-left: 37px;
+	padding-top: 20px;
+}
+#container #innerRight {
+	float: left;
+	width: 550px;
+	margin-top: 9px;
+	margin-left: 70px;
+}
+#container #innerRight #boxTop {
+	background-image: url(images/box_top.png);
+	background-repeat: no-repeat;
+	height: 10px;
+	width: 100%;
+}
+#footer {
+font-size: .9em;
+	text-align: center;
+	width: 100%;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+#footer #copyright {
+font-size: .8em;
+}
+a {
+color: #000000;
+font-weight: bold;
+text-decoration: none;
+}
+a:hover {
+color: #cc6666;
+font-weight: bold;
+text-decoration: none;
+}
+#container #innerRight #box {
+	background-image: url(images/box_bkg.png);
+	width: 520px;
+	background-repeat: repeat-y;
+	padding: 10px 15px 5px 15px;
+}
+#box p {
+	padding-bottom: 10px;
+	line-height: 1.8em;
+}
+#container #innerRight #boxBottom {
+	background-image: url(images/box_bottom.png);
+	background-repeat: no-repeat;
+	height: 10px;
+	width: 100%;
+}
+a#home_btn, a#about_btn, a#rates_btn, a#equipment_btn, a#contact_btn, a#links_btn, a#services_btn, a#faqs_btn, a#testimonial_btn {
+	float: left;
+	clear: left;
+	display: inline;
+	height: 0;
+	overflow: hidden;
+	font-size: .1em;
+	margin: 5px 0px 12px 0px;
+}
+a#home_btn { width: 70px; padding-top: 23px; background: url(images/home_btn.png) no-repeat 0 0; }
+a#home_btn:hover { background-position: 0 -23px; }
+a#about_btn { width: 128px; padding-top: 22px; background: url(images/about_btn.png) no-repeat 0 0; }
+a#about_btn:hover { background-position: 0 -22px; }
+a#services_btn { width: 106px; padding-top: 20px; background: url(images/services_btn.png) no-repeat 0 0; }
+a#services_btn:hover { background-position: 0 -20px; }
+a#rates_btn { width: 73px; padding-top: 22px; background: url(images/rates_btn.png) no-repeat 0 0; }
+a#rates_btn:hover { background-position: 0 -22px; }
+a#equipment_btn { width: 130px; padding-top: 29px; background: url(images/equipment_btn.png) no-repeat 0 0; }
+a#equipment_btn:hover { background-position: 0 -29px; }
+a#contact_btn { width: 100px; padding-top: 19px; background: url(images/contact_btn.png) no-repeat 0 0; }
+a#contact_btn:hover { background-position: 0 -19px; }
+a#links_btn { width: 65px; padding-top: 25px; background: url(images/links_btn.png) no-repeat 0 0; }
+a#links_btn:hover { background-position: 0 -25px; }
+a#faqs_btn { width: 70px; padding-top: 27px; background: url(images/faqs_btn.png) no-repeat 0 0; }
+a#faqs_btn:hover { background-position: 0 -27px; }
+a#testimonial_btn { width: 163px; padding-top: 22px; background: url(images/testimonial_btn.png) no-repeat 0 0; }
+a#testimonial_btn:hover { background-position: 0 -22px; }
+
+#break {
+	height: 0;
+	clear: both;
+}
+#collage {
+	background-image: url(images/collage.png);
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+	height: 213px;
+	width: 562px;
+	position: absolute;
+	left: 345px;
+	top: -25px;
+}
+blockquote
+{
+	color:#666;
+	margin: 1em;
+	padding: 0 0 10px 50px;
+	background: url(images/blockquote.gif) no-repeat left top;	
+}
+#contactForm div {padding: 4px;}
+#contactForm label {float:left;display:block;width:212px;}
+#contactForm textarea {width:100%; height:100px;}
+#contactForm {width:100%}

@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^myluckyinlove.steveblackonline.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.myluckyinlove.steveblackonline.com$
+RewriteRule ^/?$ "http\:\/\/www\.myluckyinlove\.com" [R=301,L]
+

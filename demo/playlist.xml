@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<track>
+		<path>../songs/Blackbird.mp3</path>
+		<title>Blackbird - The Beatles</title>
+	</track>
+	<track>
+		<path>../songs/Mary Janes Last Dance.mp3</path>
+		<title>Mary Jane's Last Dance - Tom Petty</title>
+	</track>
+	<track>
+		<path>../songs/Homeward Bound.mp3</path>
+		<title>Homeward Bound - Simon &amp; Garfunkel</title>
+	</track>
+	<track>
+		<path>../songs/Help.mp3</path>
+		<title>Help - The Beatles</title>
+	</track>
+	<track>
+		<path>../songs/Brown Eyed Girl.mp3</path>
+		<title>Brown Eyed Girl - Van Morrison</title>
+	</track>
+	<track>
+		<path>../songs/Why Georgia.mp3</path>
+		<title>Why Georgia - John Mayer</title>
+	</track>
+	<track>
+		<path>../songs/All For You.mp3</path>
+		<title>All for You - Sister Hazel</title>
+	</track>
+	<track>
+		<path>../songs/Something_beatles.mp3</path>
+		<title>Something - The Beatles</title>
+	</track>
+	<track>
+		<path>../songs/Landslide.mp3</path>
+		<title>Landslide - Stevie Nicks</title>
+	</track>
+	<track>
+		<path>../songs/Elderly Women.mp3</path>
+		<title>Elderly Women . . . - Pearl Jam</title>
+	</track>
+	<track>
+		<path>../songs/With Arms Wide Open.mp3</path>
+		<title>With Arms Wide Open - Creed</title>
+	</track>
+	<track>
+		<path>../songs/High Dry.mp3</path>
+		<title>High &amp; Dry - Radiohead</title>
+	</track>
+</xml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+
+<channel>
+	<title>Steve Black</title>
+	<link>http://www.steveblackonline.com</link>
+	<description>Solo, Acoustic Singer/Songwriter</description>
+	<copyright>2009 Steve Black. All rights reserved.</copyright>
+	<language>en-us</language>
+	
+	<item>
+		<title>12-02-15: The Chophouse Grille</title>
+		<link>http://www.steveblackonline.com/?i=2&amp;h=450</link>
+		<description>Mahopac, NY 6:30 pm - 9:30 pm</description>
+	</item>
+
+	<item>
+		<title>12-11-15: Newburgh Brewing Company</title>
+		<link>http://www.steveblackonline.com/?i=2&amp;h=450</link>
+		<description>Newburgh, NY 8:00 pm - 11:00 pm</description>
+	</item>
+
+	<item>
+		<title>01-15-16: Newburgh Brewing Company</title>
+		<link>http://www.steveblackonline.com/?i=2&amp;h=450</link>
+		<description>Newburgh, NY 8:00 pm - 11:00 pm</description>
+	</item>
+
+	<item>
+		<title>03-18-16: Newburgh Brewing Company</title>
+		<link>http://www.steveblackonline.com/?i=2&amp;h=450</link>
+		<description>Newburgh, NY 8:00 pm - 11:00 pm</description>
+	</item>
+
+	<item>
+		<title>04-08-16: Newburgh Brewing Company</title>
+		<link>http://www.steveblackonline.com/?i=2&amp;h=450</link>
+		<description>Newburgh, NY 8:00 pm - 11:00 pm</description>
+	</item>
+</channel>
+
+</rss>

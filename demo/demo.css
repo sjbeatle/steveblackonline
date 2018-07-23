@@ -1,0 +1,84 @@
+* {
+	padding: 0; 
+	margin:0;
+}
+td { padding:3px; }
+p {
+	line-height:1.8em;
+}
+p#sub-nav {text-align:right;position:relative;top:-66px;left:-50px;}
+dl {
+	margin:1em 0;
+}
+dt 
+{
+	font-weight:bold;
+}
+dd 
+{
+	margin:0.5em;
+	padding:0;
+}
+img.right {
+	float: right;
+	margin:10px 0 0 10px;		
+}
+img.left {
+	float: left; 
+	margin:0 10px 10px 0;	
+}
+a:link img,
+a:visited img,
+a:hover img,
+a:active img {
+	border:none;
+	background:none;
+	padding:none;
+	padding:4px 10px 10px 4px;	
+	border-top:#eee 1px solid;
+	border-left:#eee 1px solid;		
+}
+.clear {
+	clear:both;
+	height:20px;
+}
+fieldset 
+{
+	border:0;
+}
+h1, h2, h3, h4, h5, h6 
+{
+	font-family:Georgia, Verdana, Arial, Serif;
+}
+.alignleft 
+{
+	float:left;
+	text-align:left;	
+}
+.alignright
+{
+	float:right;
+	text-align:right;	
+}
+#addVenue {
+display: none;
+}
+#addVenue fieldset {
+	border: solid 1px #CCCCCC;
+	margin: 0px 0px 10px 40px;
+	padding: 0px 0px 20px 20px;
+width:400px;
+  color: #666666;
+}
+#addVenue fieldset legend {
+margin-left: 0px;
+}
+#addVenue fieldset input {
+color: #666666;
+}
+#addVenue * {
+	margin: 0px 0px 0px 10px;
+}
+.submit {
+margin: 20px 0px 0px 10px;
+}

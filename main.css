@@ -1,0 +1,285 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*****************************
+*      General Styles        *
+*****************************/
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	font: 76%/1.6em verdana, tahoma, arial,  sans-serif;
+	background-image:url(images/total_bkg.gif);
+}
+
+a {
+	color:#b54724;
+}
+
+p {
+	margin-bottom: 10px;
+}
+
+input,
+textarea {
+	color:#423b35;
+}
+
+h1 {
+	font-size:1.8em;
+	font-weight:normal;
+	letter-spacing:0;
+	font-family:Georgia,Verdana,Arial,Serif;
+	color: #423b35;
+	margin:10px 0 10px 10px;
+	font-variant:small-caps;
+}
+
+h2 {
+	font-size:1.4em;
+	font-weight:normal;
+	letter-spacing:0;
+	font-family:Georgia,Verdana,Arial,Serif;
+	color: #423b35;
+	margin:5px 0 5px 10px;
+	font-variant:small-caps;
+}
+
+li {
+	padding-bottom:5px;
+}
+
+ul {
+	list-style-image: url(images/bullet_arrow.png);
+	padding-left: 20px;
+}
+
+ol {
+	padding-left: 50px;
+}
+
+/*****************************
+*      General Classes       *
+*****************************/
+.clear { clear:both; height:0px; }
+.floatRight {float:right;}
+.floatLeft {float:left;}
+.noBorder {border:none;}
+
+/*****************************
+*      Specific Styles       *
+*****************************/
+#header {
+	width:100%;
+	height: 274px;
+	background-image:url(images/header_bkg.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	z-index: -1;
+}
+
+#container {
+	width:980px;
+	margin: 0 auto;
+	}
+	#title {
+		padding: 30px 0px 30px 0px;
+		text-align:right;
+	}
+.navLink {cursor:pointer;}
+	#tab_nav {
+		height:25px;
+		background-image:url(images/tab_nav_bkg.png);
+		background-repeat:no-repeat;
+		}
+		#tab_nav div {
+			text-align:center;
+			display: block;
+			position: relative;
+			float: left;
+			height: 20px;
+			width: 121px;
+			margin-left: -20px;
+			padding-top: 5px;
+			background-image:url(images/tab_bkg.png);
+			}
+			#tab_nav div#first {
+				background-image:url(images/tab_no_shadow_bkg.png);
+				margin-left: 0px !important;
+			}
+			#tab_nav div.active {
+				background-image:url(images/tab_active_bkg.png) !important;
+			}
+		#tab_nav a {
+			text-decoration:none;
+			color:#dee2d4;
+			font-family:verdana;
+			font-size:10px;
+			font-weight:bold;
+			margin-left:-25px;
+			}
+			#tab_nav a:hover {
+				color:#ffffff;
+			}
+	#tab_content {
+		color:#dee2d4;
+		background-color: #1e1a19;
+		position:relative;
+		background-image:url(images/fold.gif);
+		background-repeat:no-repeat;
+		background-position: top right;
+		}
+		.tab_content_subDiv {
+			width:920px;
+			padding:30px;
+			display:none;
+		}
+		#content0 {
+			display:block;
+		}
+		#music-player {
+			width:341px;
+			height:26px;
+			position:absolute;
+			right:50px;
+			top:6px;
+			z-index:100;
+		}
+	#content_bottom {
+		height:26px;
+		background-image:url(images/content_bottom.png);
+	}
+	#columns {
+		background-image:url(images/columns_bkg.png);
+		min-height:225px;
+		}
+		#columns .sub-col3 {
+			color: #423b35;
+			float:left;
+			width:315px;
+			padding:5px;
+		}
+		#columns #mailing-list-col {
+			text-align:center;
+		}
+		#columns #network-feed-col {
+			text-align:right;
+		}
+	#footer {
+		text-align:center;
+		padding:10px;
+		font-size:12px;
+		}
+		#footer a {
+			color:#666666;
+			text-decoration:none;
+			padding:3px;
+			}
+			#footer a:hover {
+				background-color:#eeeeee;
+				color:#423b35;
+			}
+	#error-box {
+		display:none;
+		color:#423b35;
+		position:fixed;
+		top:35%;
+		left:50%;
+		margin-left:-150px;
+		text-align:center;
+		background-image: url(images/mailing_list_error_bkg.png);
+		width:250px;
+		height:145px;
+		padding:5px 25px 0px 25px;
+		z-index:1000;
+		}
+		#error-box h1 {
+			text-align:center;
+			margin-left:0px;
+		}
+#image-box {
+	display:none;
+	color:#423b35;
+	position:fixed;
+	top:5%;
+	text-align:center;
+	width:100%;
+	height:145px;
+	z-index:3000;
+	}
+	#image-box img {
+		background-color: #dee2d4;
+		border: 2px solid #1e1a19;
+		padding:5px;
+		z-index:1;
+	}
+
+/*********************************
+*      Tab Specific Styles       *
+*********************************/
+#home_gig {
+	font-size:.9em;
+	}
+	#home_gig a {
+		text-decoration:underline;
+		}
+		#home_gig a:hover {
+			text-decoration:none;
+		}
+
+#news-feed p {
+	padding:3px;
+}
+
+#divScrollTextCont {
+	color:black;
+	padding:20px;
+	width:560px;
+	}
+	#divScrollTextCont #divText {
+	}
+
+#showDetails {
+	float:left;
+	width:250px; 
+}
+#showList {
+	float: left;
+	position:relative;
+	background-image: url(images/showlist_bkg.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 34px;
+	width: 614px;
+	height: 263px;
+}
+#showsScrollArrows {
+	float:left;
+	margin-left:5px;
+}
+
+#track_listing, #album_art {
+	padding-left:20px;
+	position:relative;
+	}
+	.track_download_arrow {
+		position:absolute;
+		left:20px;
+	}
+	
+.songList label {
+	display:block;
+	font-weight:bold;
+	float:left;
+	width:350px;
+	clear:both;
+}
+
+.songList div {
+	padding:3px;
+}
+
+.songTitle {
+	clear:both;
+}

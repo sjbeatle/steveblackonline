@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<musiclist>
+
+	<song>
+		<title>something</title>
+		<url>songs/something.mp3</url>
+	</song>
+	<song>
+		<title>all i have</title>
+		<url>songs/allihave.mp3</url>
+	</song>
+	<song>
+		<title>teal & purple</title>
+		<url>songs/tealpurple.mp3</url>
+	</song>
+	<song>
+		<title>hello</title>
+		<url>songs/hello.mp3</url>
+	</song>
+
+</musiclist>

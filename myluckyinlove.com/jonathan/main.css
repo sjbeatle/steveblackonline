@@ -1,0 +1,237 @@
+@charset "utf-8";
+body {
+	background-color:#bdd98a;
+	color:#000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 0px;
+	padding: 0px;
+}
+.outmost {
+	position: absolute;
+	top: 0px;
+	left: 50%;
+	margin-top: 0px;
+	margin-left: -490px;
+	width: 980px;
+}
+#measurements {
+	padding:30px;
+}
+/********************** Header ***************************/
+#header {
+	margin: 0px 0px 0px 0px;
+	background-image:url(images/header.jpg);
+	width:980px;
+	height:288px;
+	position:relative;
+}
+#header ul{
+	background-color:#94c2ea;
+	width:974px;
+	border: 3px solid #FFFFFF;
+	display:block;
+	top:255px;
+	position:absolute;
+	margin: 0px 0px 0px 0px;
+	height:22px;
+	padding:5px 0px 0px 0px;
+	text-align:left;
+	filter: alpha(opacity95);
+	-moz-opacity: .95;
+	opacity: .95;
+}
+#header li{
+	display:inline;	
+}
+#header ul a{
+	text-decoration:none;
+	color:#FFFFFF;
+	margin: 0px 15px;
+}
+#header_text p {
+	color: #ffffff !important;
+}
+#header ul a:hover{
+	text-decoration:underline;
+	color:#28556b;
+}
+#logo_w1,#logo_w2 {
+	font-size: 24px;
+	font-style:italic;
+	color:#FFFFFF;
+	position:absolute;
+}
+#logo_w1{
+	top:15px;
+	left:70px;
+}
+#logo_w2{
+	top:44px;
+	left:94px;
+}
+#header_text {
+	top:120px;
+	left:43px;
+	position:absolute;
+}
+#header_text p{
+	font-size: 18px;
+	color:#FFFFFF;
+}
+#header_text a{color:#28556b;}
+#header_text a:hover{color:#c77e0c;}
+/********************** Content ***************************/
+#content {
+	background-image:url(images/content_bg.gif);
+	width:980px;
+}
+img{
+	border-width:0px;
+}
+h1{
+	color:#000000;
+	font-size:12px;
+	margin: 0px 0px 0px 5px;
+}
+#news p {
+	margin-top: 5px;
+	margin-bottom: 25px;
+}
+h2{
+	color:#85a157;
+	font-size:14px;
+	text-align:center;
+	margin: 10px 0px 15px 0px;
+}
+#left {
+	float:left;
+	width:645px;
+	padding: 0px 40px 20px 20px;
+	margin-top:10px;
+	border-right: #FFF 2px solid;
+	display:inline;
+}
+#middle {
+	float:left;
+	width:300px;
+	padding: 0px 20px 20px 20px;
+	margin-top:10px;
+	border-left: #FFF 2px solid;
+
+}
+#right {
+	float:right;
+	width:200px;
+	padding: 0px 20px 20px 20px;
+	margin-top:10px;
+}
+a{color:#28556b;}
+a:hover{color:#c77e0c;}
+/********************** Journal ***************************/
+#journal_entry {
+	font-size: 13px;
+	line-height: 18px;
+	color: #666666;
+}
+#journal_title {
+	font-size: 13px;
+	width: 100%;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+#journal_title_text {
+	width:543px;
+	margin:0px;
+	padding-left: 10px;
+	padding-right: 13px;
+	color: white;
+}
+#journal_title_middle {
+	width:543px;
+	text-align: center;
+	background-image:url(images/journal_title_middle.gif);
+}
+#journal_left {
+	float:left;
+	width:250px;
+	padding: 0px 20px 20px 20px;
+	margin-top:10px;
+	display:inline;
+}
+#journal_left p {
+	margin: 0px 0px 2px 0px;
+}
+#journal_right {
+	float:right;
+	width:645px;
+	padding: 0px 20px 20px 20px;
+	border-left: #FFF 2px solid;
+	margin-top:10px;
+}
+/********************** Messageboard ***************************/
+#messageboard {
+	padding:30px;
+	text-align:center;
+}
+#message_left {
+	float:left;
+	width:250px;
+	padding: 0px 20px 20px 20px;
+	margin-top:10px;
+	display:inline;
+	text-align: center;
+}
+#message_right {
+	float:right;
+	width:645px;
+	padding: 0px 20px 20px 20px;
+	border-left: #FFF 2px solid;
+	margin-top:10px;
+	text-align: center;
+}
+#message_title {
+	font-size: 13px;
+	width: 100%;
+	margin-left: 50px;
+	margin-top: 20px;
+text-align: left;
+}
+#message_title_text {
+	width:505px;
+	margin:0px;
+	padding-left: 20px;
+	padding-right: 23px;
+	color: white;
+}
+#message_title_middle {
+	width:543px;
+	text-align: left;
+	background-image:url(images/journal_title_middle.gif);
+}
+/********************** Photos ***************************/
+#slideshow {
+	padding:30px;
+	text-align:center;
+}
+/********************** Extra ***************************/
+.poll {
+width: 100%;
+}
+.showpointer {
+	cursor: pointer;
+	cursor: hand;
+	margin: 0px;
+}
+/********************** Footer ***************************/
+#footerline {
+clear:both;
+background-image:url(images/footer_bg.gif);
+font-size:1px;
+height:24px;
+}
+#footer {
+	width:980px;
+	text-align:center;
+	padding: 20px 0px;
+}

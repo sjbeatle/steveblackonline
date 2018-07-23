@@ -1,0 +1,187 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	margin: 0px;
+	padding: 0px;
+	border: none;
+	color: #f3f3f3;
+	font-family: verdana;
+	font-size: 12px;
+}
+a {
+	color: #eec165;
+	text-decoration: none;
+}
+	
+body {
+	background-color: #292929;
+	background-image: url(images/grid-bg.png);
+	background-repeat: repeat;
+}
+
+#wrapper {
+	width: 980px;
+	margin: 10px auto;
+	border: solid #000000 1px;
+	background-color: #292929;
+}
+
+.arrow-pointer {
+	cursor: pointer;
+}
+
+.clear {
+	clear: both;
+}
+
+/********** COMMON STYLES **********/
+#header {
+	background-image: url(images/header-bg.jpg);
+	background-repeat: no-repeat;
+	height: 355px;
+	width: 100%;
+	position: relative;
+}
+#header #header-links {
+	padding-left: 39px;
+}
+#header #border-top {
+	background-image: url(images/border-top.png);
+	background-repeat: repeat-x;
+	height: 20px;
+	position: absolute;
+	width: 980px;
+	left: 0px;
+	top: 0px;
+	z-index: 1000;
+}
+
+a.text-link:hover {
+	background-color: #383838;
+	text-decoration: none;
+}
+a#btn_home,
+a#btn_portfolio,
+a#btn_info,
+a#btn_contact,
+a#btn_links {
+	display: block;
+	float: left;
+	height: 0;
+	overflow: hidden;
+	font-size: .1em;
+}
+a#btn_portfolio,
+a#btn_info,
+a#btn_contact,
+a#btn_links {
+	margin: 0px 0px 0px -5px;
+}
+a#btn_home {
+	width: 184px;
+	padding-top: 101px;
+	background: url(images/btn_home.png) no-repeat 0 0;
+}
+a#btn_portfolio {
+	width: 184px;
+	padding-top: 101px;
+	background: url(images/btn_portfolio.png) no-repeat 0 0;
+}
+a#btn_info {
+	width: 184px;
+	padding-top: 101px;
+	background: url(images/btn_info.png) no-repeat 0 0;
+}
+a#btn_contact {
+	width: 184px;
+	padding-top: 101px;
+	background: url(images/btn_contact.png) no-repeat 0 0;
+}
+a#btn_links {
+	width: 184px;
+	padding-top: 101px;
+	background: url(images/btn_links.png) no-repeat 0 0;
+}
+a.on,
+a#btn_home:hover,
+a#btn_portfolio:hover,
+a#btn_info:hover,
+a#btn_contact:hover,
+a#btn_links:hover {
+	background-position: 0 -101px !important;
+}
+
+.img-header {margin-bottom: 10px;}
+
+#bottom-links {
+	padding: 30px 30px 10px 30px;
+	text-align: center;
+}
+#bottom-links a {
+	padding: 3px;
+}
+#bottom-links a:hover {
+	background-color: #383838;
+}
+
+#footer {
+	background-color: #383838;
+	padding: 30px;
+	font-size: 10px;
+	position: relative;
+}
+#footer #validators {
+	position: absolute;
+	top: 22px;
+	left: 750px;
+}
+
+/********** HOMEPAGE STYLES **********/
+#recent-sites {
+	padding:30px;
+}
+	#recent-sites div.rs-box {
+		float: left;
+		width: 259px;
+		margin: 0px 20px 0px 20px;
+	}
+		#recent-sites div.rs-box a.text-link {
+			color: #ffffff;
+			display: block;
+			text-align: left;
+			padding-left: 25px;
+			margin-right: 6px;
+			background-image: url(images/plus.gif);
+			background-repeat: no-repeat;
+			background-position: 4px 3px;
+		}
+		
+#welcome {
+	background-color: #2f2f2f;
+	padding: 30px;
+}
+
+/********** CONTACT STYLES **********/
+#contact-left {float:left;width:420px;}
+#contact-right {float:right;}
+#contactForm fieldset {border: 1px solid #ffffff;padding:10px;background-color: #383838;width:450px;}
+#contactForm fieldset legend {padding: 0px 10px 0px 10px;}
+#contactForm div {padding: 4px;}
+#contactForm label {float:left;display:block;width:207px;}
+#contactForm input, #contactForm select, #contactForm textarea {border:1px solid #ffffff;background-color: #2f2f2f;padding:2px;}
+#contactForm textarea {width:433px; height:100px;}
+#contactForm {width:100%}
+.odd {background-color:#333333;}
+#contact-error {border: 5px solid #eeeeee;background-color: #333333;position:absolute; width:200px; padding:0px !important;top:500px;left:50%;margin-left:120px}
+#contact-error ul {
+	list-style:none;
+}
+#error-toolbar {background-color:#666666; text-align:right; margin:2px !important; padding:0px !important;height:20px;}
+#error-message {
+	padding:8px !important;
+	background-image: url(images/warning.png);
+	background-repeat: no-repeat;
+	background-position: 90% 50%;
+	min-height:30px;
+}

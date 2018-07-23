@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.mainBody #container {width:480px !important;}
+.mainBody #header {overflow:hidden !important;}
+.mainBody #mainContent {width:470px !important;padding:5px !important;}
+.mainBody #footer {width:440px !important;}
+
+.FootLinks, .ContactDiv {display:block !important;float:none !important;max-width:inherit !important;width:inherit !important;text-align:center !important;}
+
+#right-column-frame {float:left !important;}
+#introduction-frame, #login-text-frame {float:none !important;text-align:center !important;width:inherit !important;}

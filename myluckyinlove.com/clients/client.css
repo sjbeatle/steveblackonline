@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#innerLeft a {display:block;margin-bottom: 10px;}
+.note_this {font-size:10px;}
+.odd {background-color:#eeeeee;}
+div#box div {padding:4px;}
+div#box div img { vertical-align:middle;}
+div#box div label {float:left;display:block;width:150px;color:#666666;}
+div#box div span {float:left;}
+div#box div span.inputDisplay {padding:4px; padding-left: 30px;float:none;}
+div#box div input.text_input {height: 13px; font-size: 10px; color:#666666;
+background-image: url(images/input_bkg.png); background-repeat: repeat-y; background-position: right;border: 1px solid #cccccc;padding:2px;margin-bottom: 5px;}
+div#box div span.inputDisplay:hover {background-color:#fdeaea; background-image: url(images/edit.png); background-repeat: no-repeat; background-position: 0px 50%;}
+div#box div form {display:inline;}
+div#box div a.btn_confirm, a.btn_cancel {
+	display:block;
+	float:left;
+	height: 0;
+	overflow: hidden;
+	font-size: .1em;
+	vertical-align: middle !important;
+	margin: 3px 0px 0px 4px;
+}
+div#box div a.btn_confirm { padding-left: 15px; padding-top: 15px; background: url(images/confirm.png) no-repeat 0 0; }
+div#box div a.btn_confirm:hover { background-position: 0 -15px; }
+div#box div a.btn_cancel { padding-left: 15px; padding-top: 15px; background: url(images/cancel.png) no-repeat 0 0; }
+div#box div a.btn_cancel:hover { background-position: 0 -15px; }
+fieldset {border: 1px solid #cc6666; padding:10px;}
+fieldset legend {font-weight:bold; color: #cc6666;padding: 0px 5px 0px 5px;}
+#container #innerRight { width: 650px !important; margin-left: 20px;}
+#container #innerLeft { width: 190px !important;padding-left: 0px;}
+#container #innerRight #boxTop {background-image: url(images/box_top_client.png) !important;}
+#container #innerRight #box {background-image: url(images/box_bkg_client.png) !important;	width: 620px !important;}
+#container #innerRight #boxBottom {background-image: url(images/box_bottom_client.png) !important;}
+ul {margin-left: 30px;}

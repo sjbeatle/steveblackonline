@@ -1,0 +1,8 @@
+[19-Apr-2012 20:41:02] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/stevebl1/public_html/admin/config.php on line 10
+[22-Apr-2012 21:34:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/stevebl1/public_html/admin/config.php on line 10
+[22-Apr-2012 21:34:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/stevebl1/public_html/admin/config.php on line 10
+[07-May-2012 01:04:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server at 'waiting for initial communication packet', system error: 95 in /home/stevebl1/public_html/admin/config.php on line 10
+[15-May-2012 02:11:30] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/stevebl1/public_html/admin/config.php on line 10
+[04-Apr-2014 00:19:31] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home2/stevebl1/public_html/home_tab.php on line 32
+[04-Apr-2014 00:19:33] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home2/stevebl1/public_html/home_tab.php on line 32
+[04-Apr-2014 00:19:35] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home2/stevebl1/public_html/home_tab.php on line 32

@@ -1,0 +1,13 @@
+[20-Dec-2015 20:56:02] PHP Parse error:  syntax error, unexpected '=' in /home2/stevebl1/public_html/myluckyinlove.com/contact_AJAX.php on line 24
+[20-Dec-2015 20:56:58] PHP Parse error:  syntax error, unexpected '=' in /home2/stevebl1/public_html/myluckyinlove.com/contact_AJAX.php on line 24
+[20-Dec-2015 20:57:18] PHP Parse error:  syntax error, unexpected '=' in /home2/stevebl1/public_html/myluckyinlove.com/contact_AJAX.php on line 24
+[20-Dec-2015 20:59:23] PHP Parse error:  syntax error, unexpected '=' in /home2/stevebl1/public_html/myluckyinlove.com/contact_AJAX.php on line 24
+[20-Dec-2015 21:00:03] PHP Parse error:  syntax error, unexpected '=' in /home2/stevebl1/public_html/myluckyinlove.com/contact_AJAX.php on line 24
+[20-Dec-2015 21:00:07] PHP Parse error:  syntax error, unexpected '=' in /home2/stevebl1/public_html/myluckyinlove.com/contact_AJAX.php on line 24
+[20-Dec-2015 21:00:08] PHP Parse error:  syntax error, unexpected '=' in /home2/stevebl1/public_html/myluckyinlove.com/contact_AJAX.php on line 24
+[20-Dec-2015 21:00:09] PHP Parse error:  syntax error, unexpected '=' in /home2/stevebl1/public_html/myluckyinlove.com/contact_AJAX.php on line 24
+[20-Dec-2015 21:00:34] PHP Parse error:  syntax error, unexpected '=' in /home2/stevebl1/public_html/myluckyinlove.com/contact_AJAX.php on line 24
+[20-Dec-2015 21:00:35] PHP Parse error:  syntax error, unexpected '=' in /home2/stevebl1/public_html/myluckyinlove.com/contact_AJAX.php on line 24
+[20-Dec-2015 21:01:09] PHP Parse error:  syntax error, unexpected '=' in /home2/stevebl1/public_html/myluckyinlove.com/contact_AJAX.php on line 24
+[20-Dec-2015 21:01:11] PHP Parse error:  syntax error, unexpected '=' in /home2/stevebl1/public_html/myluckyinlove.com/contact_AJAX.php on line 24
+[20-Dec-2015 21:08:02] PHP Catchable fatal error:  Object of class PHPMailer could not be converted to string in /home2/stevebl1/public_html/myluckyinlove.com/contact_AJAX.php on line 58

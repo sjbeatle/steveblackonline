@@ -1,0 +1,133 @@
+[04-Apr-2012 07:53:21] PHP Warning:  fopen(/Applications/xampp/xamppfiles/htdocs/Travis Winkley/rss/rss.xml) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/stevebl1/public_html/admin/editvenue.inc.php on line 211
+[27-Jan-2018 21:57:58 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/index.php on line 85
+[27-Jan-2018 21:57:58 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/login.php on line 8
+[27-Jan-2018 21:57:58 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/admin_header.php on line 34
+[27-Jan-2018 21:57:58 America/Denver] PHP Notice:  Undefined index: tries in /home2/stevebl1/public_html/admin/login.php on line 90
+[27-Jan-2018 21:57:58 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[27-Jan-2018 21:58:00 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/index.php on line 85
+[27-Jan-2018 21:58:00 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/login.php on line 8
+[27-Jan-2018 21:58:01 America/Denver] PHP Notice:  Undefined index: page in /home2/stevebl1/public_html/admin/index.php on line 9
+[27-Jan-2018 21:58:01 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[27-Jan-2018 21:58:04 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/addshow.inc.php on line 2
+[27-Jan-2018 21:58:04 America/Denver] PHP Notice:  Undefined index: submit in /home2/stevebl1/public_html/admin/addshow.inc.php on line 24
+[27-Jan-2018 21:58:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/addvenue.inc.php on line 2
+[27-Jan-2018 21:58:06 America/Denver] PHP Notice:  Undefined index: submit in /home2/stevebl1/public_html/admin/addvenue.inc.php on line 7
+[27-Jan-2018 21:58:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/addshow.inc.php on line 2
+[27-Jan-2018 21:58:09 America/Denver] PHP Notice:  Undefined index: submit in /home2/stevebl1/public_html/admin/addshow.inc.php on line 24
+[27-Jan-2018 21:59:00 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/addshow.inc.php on line 2
+[27-Jan-2018 21:59:03 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home2/stevebl1/public_html/admin/admin_header.php on line 34
+[27-Jan-2018 21:59:03 America/Denver] PHP Notice:  Undefined variable: strLogin in /home2/stevebl1/public_html/admin/login.php on line 17
+[27-Jan-2018 21:59:03 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[13-Feb-2018 06:54:57 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/index.php on line 85
+[13-Feb-2018 06:54:57 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/login.php on line 8
+[13-Feb-2018 06:54:57 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/admin_header.php on line 34
+[13-Feb-2018 06:54:57 America/Denver] PHP Notice:  Undefined index: tries in /home2/stevebl1/public_html/admin/login.php on line 90
+[13-Feb-2018 06:54:57 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[13-Feb-2018 06:57:29 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/index.php on line 85
+[13-Feb-2018 06:57:29 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/login.php on line 8
+[13-Feb-2018 06:57:29 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/admin_header.php on line 34
+[13-Feb-2018 06:57:29 America/Denver] PHP Notice:  Undefined index: tries in /home2/stevebl1/public_html/admin/login.php on line 90
+[13-Feb-2018 06:57:29 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[13-Feb-2018 23:55:23 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/index.php on line 85
+[13-Feb-2018 23:55:23 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/login.php on line 8
+[13-Feb-2018 23:55:23 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/admin_header.php on line 34
+[13-Feb-2018 23:55:23 America/Denver] PHP Notice:  Undefined index: tries in /home2/stevebl1/public_html/admin/login.php on line 90
+[13-Feb-2018 23:55:23 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[24-Mar-2018 04:06:39 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/index.php on line 85
+[24-Mar-2018 04:06:39 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/login.php on line 8
+[24-Mar-2018 04:06:39 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/admin_header.php on line 34
+[24-Mar-2018 04:06:39 America/Denver] PHP Notice:  Undefined index: tries in /home2/stevebl1/public_html/admin/login.php on line 90
+[24-Mar-2018 04:06:39 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[24-Mar-2018 04:17:54 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/index.php on line 85
+[24-Mar-2018 04:17:54 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/login.php on line 8
+[24-Mar-2018 04:17:54 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/admin_header.php on line 34
+[24-Mar-2018 04:17:54 America/Denver] PHP Notice:  Undefined index: tries in /home2/stevebl1/public_html/admin/login.php on line 90
+[24-Mar-2018 04:17:54 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[24-Mar-2018 19:49:58 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/index.php on line 85
+[24-Mar-2018 19:49:58 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/login.php on line 8
+[24-Mar-2018 19:49:58 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/admin_header.php on line 34
+[24-Mar-2018 19:49:58 America/Denver] PHP Notice:  Undefined index: tries in /home2/stevebl1/public_html/admin/login.php on line 90
+[24-Mar-2018 19:49:58 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:16:28 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/index.php on line 85
+[06-Apr-2018 09:16:28 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/login.php on line 8
+[06-Apr-2018 09:16:28 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/admin_header.php on line 34
+[06-Apr-2018 09:16:28 America/Denver] PHP Notice:  Undefined index: tries in /home2/stevebl1/public_html/admin/login.php on line 90
+[06-Apr-2018 09:16:28 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:16:30 America/Denver] PHP Notice:  Undefined index: loggedin in /home2/stevebl1/public_html/admin/index.php on line 85
+[06-Apr-2018 09:16:30 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/login.php on line 8
+[06-Apr-2018 09:16:30 America/Denver] PHP Notice:  Undefined index: page in /home2/stevebl1/public_html/admin/index.php on line 9
+[06-Apr-2018 09:16:30 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:16:35 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/addshow.inc.php on line 2
+[06-Apr-2018 09:16:35 America/Denver] PHP Notice:  Undefined index: submit in /home2/stevebl1/public_html/admin/addshow.inc.php on line 24
+[06-Apr-2018 09:16:37 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/addshow.inc.php on line 2
+[06-Apr-2018 09:16:37 America/Denver] PHP Notice:  Undefined index: submit in /home2/stevebl1/public_html/admin/addshow.inc.php on line 24
+[06-Apr-2018 09:18:00 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/addshow.inc.php on line 2
+[06-Apr-2018 09:18:03 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:18:03 America/Denver] PHP Notice:  Undefined index: enter in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 24
+[06-Apr-2018 09:18:05 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:18:05 America/Denver] PHP Notice:  Undefined index: update in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 50
+[06-Apr-2018 09:18:05 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:18:43 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:18:43 America/Denver] PHP Notice:  Undefined index: id in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 288
+[06-Apr-2018 09:18:43 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:18:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:18:47 America/Denver] PHP Notice:  Undefined index: enter in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 24
+[06-Apr-2018 09:18:48 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:18:48 America/Denver] PHP Notice:  Undefined index: update in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 50
+[06-Apr-2018 09:18:48 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:19:04 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:19:04 America/Denver] PHP Notice:  Undefined index: id in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 288
+[06-Apr-2018 09:19:04 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:19:08 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:19:08 America/Denver] PHP Notice:  Undefined index: enter in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 24
+[06-Apr-2018 09:19:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:19:09 America/Denver] PHP Notice:  Undefined index: update in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 50
+[06-Apr-2018 09:19:09 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:19:35 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:19:35 America/Denver] PHP Notice:  Undefined index: id in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 288
+[06-Apr-2018 09:19:35 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:19:37 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:19:37 America/Denver] PHP Notice:  Undefined index: enter in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 24
+[06-Apr-2018 09:19:39 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:19:39 America/Denver] PHP Notice:  Undefined index: update in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 50
+[06-Apr-2018 09:19:39 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:22:39 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:22:39 America/Denver] PHP Notice:  Undefined index: id in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 288
+[06-Apr-2018 09:22:39 America/Denver] PHP Notice:  Undefined variable: strName in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 435
+[06-Apr-2018 09:22:39 America/Denver] PHP Notice:  Undefined variable: strAddress in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 437
+[06-Apr-2018 09:22:39 America/Denver] PHP Notice:  Undefined variable: strCity in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 439
+[06-Apr-2018 09:22:39 America/Denver] PHP Notice:  Undefined variable: strState in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 443
+[06-Apr-2018 09:22:39 America/Denver] PHP Notice:  Undefined variable: strZip in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 452
+[06-Apr-2018 09:22:39 America/Denver] PHP Notice:  Undefined variable: strURL in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 454
+[06-Apr-2018 09:22:39 America/Denver] PHP Notice:  Undefined variable: strEmail in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 456
+[06-Apr-2018 09:22:39 America/Denver] PHP Notice:  Undefined variable: strPhone in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 458
+[06-Apr-2018 09:22:39 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:22:51 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:22:51 America/Denver] PHP Notice:  Undefined index: id in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 288
+[06-Apr-2018 09:22:51 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:22:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:22:56 America/Denver] PHP Notice:  Undefined index: enter in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 24
+[06-Apr-2018 09:22:59 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:22:59 America/Denver] PHP Notice:  Undefined index: update in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 50
+[06-Apr-2018 09:22:59 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:23:12 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:23:12 America/Denver] PHP Notice:  Undefined index: id in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 288
+[06-Apr-2018 09:23:12 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:23:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:23:15 America/Denver] PHP Notice:  Undefined index: enter in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 24
+[06-Apr-2018 09:23:18 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:23:18 America/Denver] PHP Notice:  Undefined index: update in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 50
+[06-Apr-2018 09:23:18 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:23:35 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:23:35 America/Denver] PHP Notice:  Undefined index: id in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 288
+[06-Apr-2018 09:23:35 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:23:38 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:23:38 America/Denver] PHP Notice:  Undefined index: enter in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 24
+[06-Apr-2018 09:23:40 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:23:40 America/Denver] PHP Notice:  Undefined index: update in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 50
+[06-Apr-2018 09:23:40 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:24:00 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 2
+[06-Apr-2018 09:24:00 America/Denver] PHP Notice:  Undefined index: id in /home2/stevebl1/public_html/admin/copyshow.inc.php on line 288
+[06-Apr-2018 09:24:00 America/Denver] PHP Notice:  Undefined index: index in /home2/stevebl1/public_html/admin/admin_footer.php on line 13
+[06-Apr-2018 09:24:05 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/stevebl1/public_html/admin/addshow.inc.php on line 2
+[06-Apr-2018 09:24:05 America/Denver] PHP Notice:  Undefined index: submit in /home2/stevebl1/public_html/admin/addshow.inc.php on line 24
